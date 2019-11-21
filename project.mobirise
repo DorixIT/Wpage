@@ -42,8 +42,8 @@
     "screenshot": "screenshot.png",
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "sitemapSwitcher": false,
-    "siteUrl": "",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://dorixit.github.io/Wpage/",
     "sitemapSwitcherAuto": true,
     "favicon": "",
     "": "on"
